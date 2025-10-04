@@ -1,11 +1,11 @@
 ---
 title: 给无环境的Hexo博客做一个新建文章的脚本
 date: 2021-01-11 20:43:36
-categories: [] 
+categories: [工具] 
 tags: []
 ---
-<h2 hidden style="display: none;">
-````
+
+<!--
 这是注释不会显示出来的
 ---------
 图片需要使用相对路径进行显示
@@ -36,7 +36,7 @@ tags: []
 ```
 markdown使用提示结束
 ````
-</h2>
+-->
 ## **前言**
 因为我电脑C盘空间太小了，就删掉了nodejs环境，但是删掉了之后才想起来我的blog需要nodejs的hexo脚本新建文章，没有了nodejs之后一直懒得写了。
 直到有一天，我知道了原来手动新建就可以了，再加上终于去搞定了Travis CI的自动化构建，于是乎写了一个脚本来帮助我生成空白文章。
@@ -77,8 +77,7 @@ echo categories: [] >>"%fileName%.md"
 echo tags: []>>"%fileName%.md"
 echo --->>"%fileName%.md"
 
-echo   ^<h2 hidden style="display: none;"^>>>"%fileName%.md"
-echo   ````>>"%fileName%.md"
+echo   ^<!-- >>"%fileName%.md"
 echo   这是注释不会显示出来的>>"%fileName%.md"
 echo   --------->>"%fileName%.md"
 echo   图片需要使用相对路径进行显示>>"%fileName%.md"
@@ -108,8 +107,7 @@ echo   ``` >>"%fileName%.md"
 echo   多行代码>>"%fileName%.md"
 echo   ```>>"%fileName%.md"
 echo   注释结束>>"%fileName%.md"
-echo   ````>>"%fileName%.md"
-echo   ^</h2^>>>"%fileName%.md"
+echo   -->^>>"%fileName%.md"
 chcp 936
 start /I %fileName%.md
 
