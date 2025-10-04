@@ -24,10 +24,8 @@ tags: [viewerjs, javascript]
 
 
 
-<a style="float:left;"> <img class="1" src="viewerjstutorial\image1.png" alt="示例图片1" title="示例图片1" width = 111 border=0  />
-
- <img class="2" src="viewerjstutorial\image2.png" alt="示例图片2" title="示例图片2" width=111 border=0  /></a> 
-
+![示例图片1](/assets/viewerjstutorial/image1.png)
+![示例图片2](/assets/viewerjstutorial/image2.png)
 
 
 ## **库类准备**

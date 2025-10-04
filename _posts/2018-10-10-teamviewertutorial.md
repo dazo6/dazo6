@@ -29,7 +29,7 @@ tags: [minecraft-tutorial]
 
 安装完成后需要登陆一个TeamViewer 账号 按照流程拿邮箱注册一个就好了~
 
-<img width="600" class="article-image" src="teamviewertutorial\image1.png" alt="步骤一图一" title="步骤一图一"/>
+![步骤一图一](/assets/teamviewertutorial/image1.png)
 
 ---
 
@@ -43,8 +43,7 @@ tags: [minecraft-tutorial]
 
 **以上两个步骤是 你和你的小伙伴都需要的**
 
-<img width="600" class="article-image" src="teamviewertutorial\image2.png" alt="步骤二图一" title="步骤二图一"/>
-
+![步骤二图一](/assets/teamviewertutorial/image2.png)
 ---
 
 ### **步骤三**
@@ -57,8 +56,7 @@ tags: [minecraft-tutorial]
 
 再在下面的允许的应用和功能中，找到所有的**Java**开头的和所有**TeamViewer**开头的程序，把后面的专用和公用的框框都勾起来
 
-<img width="600" class="article-image" src="teamviewertutorial\image3.png" alt="步骤三图一" title="步骤三图一"/>
-
+![步骤三图一](/assets/teamviewertutorial/image3.png)
 ---
 
 ### **步骤四**
@@ -71,11 +69,10 @@ tags: [minecraft-tutorial]
 
 把这个 **端口号** 和 **TeamViewer的ID和密码（图四中的打码部分）**发给你的小伙伴 你的任务就结束了~ 等着你的小伙伴进来吧。
 
-<img width="600" class="article-image" src="teamviewertutorial\image4.png" alt="步骤四图一" title="步骤四图一"/>
-<img width="600" class="article-image" src="teamviewertutorial\image5.png" alt="步骤四图二" title="步骤四图二"/>
-<img width="600" class="article-image" src="teamviewertutorial\image6.png" alt="步骤四图三" title="步骤四图三"/>
-<img width="600" class="article-image" src="teamviewertutorial\image7.png" alt="步骤四图四" title="步骤四图四"/>
-
+![步骤四图一](/assets/teamviewertutorial/image4.png)
+![步骤四图二](/assets/teamviewertutorial/image5.png)
+![步骤四图三](/assets/teamviewertutorial/image6.png)
+![步骤四图四](/assets/teamviewertutorial/image7.png)
 ---
 
 **步骤五**
@@ -86,9 +83,8 @@ tags: [minecraft-tutorial]
 
 点击连接按钮 之后会提示输入密码 输入小伙伴提供的密码看到图二所示的界面就连接成功啦~
 
-<img width="600" class="article-image" src="teamviewertutorial\image7.png" alt="步骤五图一" title="步骤五图一"/>
-<img width="600" class="article-image" src="teamviewertutorial\image8.png" alt="步骤五图二" title="步骤五图二"/>
-
+![步骤五图一](/assets/teamviewertutorial/image7.png)
+![步骤五图二](/assets/teamviewertutorial/image8.png)
 ---
 
 ## **步骤六**
