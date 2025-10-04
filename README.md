@@ -1,43 +1,51 @@
-# Chirpy Starter
+## Hello World, I'm [Dazo!](https://blog.dazo66.com)
+<!--
+**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Here are some ideas to get you started:
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+<!--<a href="https://www.linkedin.com/in/aakash9868sinha/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a> -->
+<!-- <a href="https://twitter.com/isupersky">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/X" />
+</a> -->
+<a href="mailto:dazo66@dazo66.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+<!-- <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
+</a> -->
+<!-- <a href="https://isupersky.medium.com/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
+</a> -->
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+<br />
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### About Me 🚀
+🌱 主要做网站后端开发，参用语言为Java。 </br>
+👨‍💻 Github主要是发一些自己的项目，一些小研究。 </br>
+📕 博客有任何bug欢迎提交Issues。 </br>
 
-## Usage
+<!--![Dazo's github stats](https://github-readme-stats.vercel.app/api?username=dazo6&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dazo6&layout=compact&langs_count=8&hide_border=true)
+<br />
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+<!--
+### 📕 Blog Posts
+- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
+- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+  <br/> -->
 
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dazo6.dazo6)
