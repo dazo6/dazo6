@@ -1,6 +1,6 @@
 ---
 title: 给无环境的Hexo博客做一个新建文章的脚本
-date: 2021-01-11 20:43:36
+date: 2021-01-11 20:43:36 +0800
 categories: [工具] 
 tags: []
 ---
@@ -75,7 +75,7 @@ Set fileName=%date%-%fileName%
 type nul>"%fileName%.md"
 echo --->"%fileName%.md"
 echo title: %postName%>>"%fileName%.md"
-echo date: %logtimestamp%>>"%fileName%.md"
+echo date: %logtimestamp% +0800>>"%fileName%.md"
 echo categories: [] >>"%fileName%.md"
 echo tags: []>>"%fileName%.md"
 echo --->>"%fileName%.md"

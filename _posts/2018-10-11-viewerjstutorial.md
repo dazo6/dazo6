@@ -1,6 +1,6 @@
 ---
 title: 为你的Hexo博客添加图片查看器
-date: 2018-10-11 19:07:44
+date: 2018-10-11 19:07:44 +0800
 categories: [归档]
 tags: [viewerjs, javascript]
 ---

@@ -30,7 +30,7 @@ Set fileName=%date%-%fileName%
 type nul>"%fileName%.md"
 echo --->"%fileName%.md"
 echo title: %postName%>>"%fileName%.md"
-echo date: %logtimestamp%>>"%fileName%.md"
+echo date: %logtimestamp% +0800>>"%fileName%.md"
 echo categories: [] >>"%fileName%.md"
 echo tags: []>>"%fileName%.md"
 echo --->>"%fileName%.md"
