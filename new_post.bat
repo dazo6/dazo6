@@ -1,6 +1,6 @@
 @echo off
 set /p fileName=Please enter the file name of the new article:
-set /p postName=Please enter the title of the new article:
+set postName="Please enter the title of the new article"
 :: Use WMIC to retrieve date and time
 FOR /F "skip=1 tokens=1-6" %%G IN ('WMIC Path Win32_LocalTime Get Day^,Hour^,Minute^,Month^,Second^,Year /Format:table') DO (
    IF "%%~L"=="" goto s_done
